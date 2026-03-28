@@ -1,7 +1,8 @@
 # MLOps Batch Processing Task
 
-## 📌 Overview
+## Overview
 
+This project ensures deterministic results using a fixed seed and config-driven execution.
 This project implements a minimal MLOps-style batch job in Python that demonstrates:
 
 - Reproducibility using config and seed
@@ -10,7 +11,7 @@ This project implements a minimal MLOps-style batch job in Python that demonstra
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 mlops-task/
 │── run.py
@@ -24,7 +25,7 @@ mlops-task/
 
 ---
 
-## ⚙️ Local Execution (Recommended)
+## Local Execution (Recommended)
 
 ### Step 1: Install dependencies
 
